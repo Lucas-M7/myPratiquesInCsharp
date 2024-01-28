@@ -1,0 +1,4 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\bin\Debug\net8.0\pratica_02.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\bin\Debug\net8.0\pratica_02.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\bin\Debug\net8.0\pratica_02.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\bin\Debug\net8.0\pratica_02.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\bin\Debug\net8.0\pratica_02.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\refint\pratica_02.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\pratica_02.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_02\obj\Debug\net8.0\ref\pratica_02.dll

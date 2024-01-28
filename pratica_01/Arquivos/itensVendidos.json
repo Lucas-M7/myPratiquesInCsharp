@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Spy-Ware",
+    "Preco": 48.00,
+    "DataDaVenda": "2024-01-07T20:24:14.3310589-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "Mallware",
+    "Preco": 100.00,
+    "DataDaVenda": "2024-01-07T20:24:14.337214-03:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Key",
+    "Preco": 150.00,
+    "DataDaVenda": "2024-01-07T20:24:14.337215-03:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Notebook",
+    "Preco": 3.100,
+    "DataDaVenda": "2024-01-07T20:24:14.3372151-03:00"
+  }
+]
