@@ -9,7 +9,7 @@ namespace Polimorfismo.Models
     {
         private readonly string _nome;
 
-        public Eletrodomestico(string nome) // Constructor that want the name of eletrodomestic
+        public Eletrodomestico(string nome) // Constructor want the name of eletrodomestic
         {
             _nome = nome;
         }
