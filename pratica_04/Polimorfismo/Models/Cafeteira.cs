@@ -9,33 +9,36 @@ namespace Polimorfismo.Models
     {
         public Cafeteira(string nome) : base(nome)
         {
-
         }
 
         private static void AquecerAgua()
         {
-
+            Console.WriteLine("Água está sendo aquecida");
         }
 
         private static void ColocarCapsula()
         {
-
+            Console.WriteLine("\nCapsula está sendo colocada");
         }
 
         public void PreparaCafe()
         {
             AquecerAgua();
             ColocarCapsula();
+
+            Console.WriteLine("\nCafé estará pronto após os próximos passos");
         }
 
         public override void Ligar()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("\nCafeteira Ligada");
         }
 
         public override void Desligar()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("\nCafeteira Desligada");
+
+            Console.WriteLine("\nSeu café está pronto");
         }
     }
 }

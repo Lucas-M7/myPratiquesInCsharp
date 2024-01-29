@@ -16,10 +16,5 @@ namespace Polimorfismo.Models
 
         public abstract void Ligar();
         public abstract void Desligar();
-
-        public void Testar()
-        {
-            
-        }
     }
 }
