@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\bin\Debug\net8.0\Assincronismo.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\bin\Debug\net8.0\Assincronismo.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\bin\Debug\net8.0\Assincronismo.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\bin\Debug\net8.0\Assincronismo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\bin\Debug\net8.0\Assincronismo.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\refint\Assincronismo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\Assincronismo.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Assincronismo\obj\Debug\net8.0\ref\Assincronismo.dll

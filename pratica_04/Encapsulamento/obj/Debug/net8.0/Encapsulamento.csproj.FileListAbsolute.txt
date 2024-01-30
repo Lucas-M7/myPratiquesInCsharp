@@ -12,3 +12,4 @@ C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Encapsulamento\obj\Debug\net
 C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
 C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
 C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_04\Encapsulamento\obj\Debug\net8.0\Encapsulamento.sourcelink.json

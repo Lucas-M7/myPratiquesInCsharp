@@ -11,7 +11,7 @@ namespace Encapsulamento.Models
         private string _nome;
         private int _idade;
 
-        public string NomeDoUsuario
+        public string Nickame
         {
             get => _nome;
 
@@ -19,7 +19,7 @@ namespace Encapsulamento.Models
             {
                 if (value == "" || value.Contains(' '))
                 {
-                    throw new ArgumentException("O campo de nome não pode ficar vazio");
+                    throw new ArgumentException("Nickname inválido, não coloque espaços, exemplo de nick: DarthVarder");
                 }
                 _nome = value;
             }
