@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace Polimorfismo.Models
 {
@@ -9,24 +10,25 @@ namespace Polimorfismo.Models
     {
 
         private int _velocidade;
+
         public FuscaAzul(string nome) : base(nome)
         {
         }
 
         public int Velocidade
         {
-            get = _velocidade;
+            get => _velocidade;
 
             set
             {
-                _velocidade += 20;
+                _velocidade = 20;
+                _velocidade += value;
             }
         }
-    }
 
         public override void Acelerar()
         {
-            Console.WriteLine("O fusca tá a 20KM/H");
+            Console.WriteLine($"O carro tá a {Velocidade} Km/h");
         }
 
         public override void DesligarCarro()
@@ -36,7 +38,7 @@ namespace Polimorfismo.Models
 
         public override void Frear()
         {
-            Console.WriteLine("O fusca tá a 10KM/H");
+            Console.WriteLine($"O fusca tá a {Velocidade -= 10} Km/h");
         }
 
         public override void LigarCarro()
