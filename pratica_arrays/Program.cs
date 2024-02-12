@@ -1,9 +1,4 @@
-﻿// for (int i = 0; i <= 10; i++)
-// {
-//     Console.WriteLine($"{10} x {i} = {i * 1}");
-// }
-
-string[] nomesDosUsuarios = { "Lucas", "Edson", "Felipe", "Ítalo" };
+﻿string[] nomesDosUsuarios = { "Lucas", "Edson", "Felipe", "Ítalo" };
 
 int contador = 0;
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pratica_arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1c1f9a7f85cab18bafd5ed00dbb3c049c71d93d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935fd041fdfe242d5fa217e01bb1c6bcc819b757")]
 [assembly: System.Reflection.AssemblyProductAttribute("pratica_arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pratica_arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
