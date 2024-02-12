@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\bin\Debug\net8.0\pratica_arrays.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\bin\Debug\net8.0\pratica_arrays.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\bin\Debug\net8.0\pratica_arrays.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\bin\Debug\net8.0\pratica_arrays.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\bin\Debug\net8.0\pratica_arrays.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\refint\pratica_arrays.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\pratica_arrays.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\pratica_arrays\obj\Debug\net8.0\ref\pratica_arrays.dll
