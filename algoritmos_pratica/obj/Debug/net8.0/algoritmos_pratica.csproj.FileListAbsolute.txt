@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\bin\Debug\net8.0\algoritmos_pratica.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\bin\Debug\net8.0\algoritmos_pratica.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\bin\Debug\net8.0\algoritmos_pratica.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\bin\Debug\net8.0\algoritmos_pratica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\bin\Debug\net8.0\algoritmos_pratica.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\refint\algoritmos_pratica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\algoritmos_pratica.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\algoritmos_pratica\obj\Debug\net8.0\ref\algoritmos_pratica.dll
