@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("algoritmos_pratica")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("caixeiro-viajante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ba4d211a77562f42846d5ffff8c7df6ef95ff6")]
-[assembly: System.Reflection.AssemblyProductAttribute("algoritmos_pratica")]
-[assembly: System.Reflection.AssemblyTitleAttribute("algoritmos_pratica")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d431b1651b3120e53c2319e786003e3190f71df7")]
+[assembly: System.Reflection.AssemblyProductAttribute("caixeiro-viajante")]
+[assembly: System.Reflection.AssemblyTitleAttribute("caixeiro-viajante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\bin\Debug\net8.0\caixeiro-viajante.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\bin\Debug\net8.0\caixeiro-viajante.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\bin\Debug\net8.0\caixeiro-viajante.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\bin\Debug\net8.0\caixeiro-viajante.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\bin\Debug\net8.0\caixeiro-viajante.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\refint\caixeiro-viajante.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\caixeiro-viajante.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\caixeiro-viajante\obj\Debug\net8.0\ref\caixeiro-viajante.dll
