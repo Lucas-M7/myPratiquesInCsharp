@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\logica.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\logica.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\logica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\ref\logica.dll
