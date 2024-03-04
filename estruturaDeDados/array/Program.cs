@@ -1,4 +1,6 @@
 ﻿//  Declara um array unidimensional de 5 elementos
+using System.Runtime.CompilerServices;
+
 int[] array1 = new int[5];
 
 // Declara um array com a quantidade elementos que você por
@@ -26,16 +28,36 @@ foreach (var dias in weekDays)
 }
 
 
-static void DisplayArray(string[] arr) => Console.WriteLine(string.Join(", ", arr));
 
-// Muda o array para reverter os elementos
-static void ChangeArray(string[] arr) => Array.Reverse(arr);
+// static void DisplayArray(string[] arr) => Console.WriteLine(string.Join(", ", arr));
 
- DisplayArray(weekDays);
- Console.WriteLine();
 
- // Reverte o array
- ChangeArray(weekDays);
- Console.WriteLine("Array weekDays depois de chamar o método ChangeArray:\n");
- DisplayArray(weekDays);
- Console.WriteLine();
+
+
+// // Muda o array para reverter os elementos
+// static void ChangeArray(string[] arr) => Array.Reverse(arr);
+
+//  DisplayArray(weekDays);
+//  Console.WriteLine();
+
+//  // Reverte o array
+//  ChangeArray(weekDays);
+//  Console.WriteLine("Array weekDays depois de chamar o método ChangeArray:\n");
+//  DisplayArray(weekDays);
+//  Console.WriteLine();
+
+// int[] numbers = [10, 4, 5, 3, 1, 2];
+// Console.WriteLine(Array.IndexOf(numbers, 5));
+
+int[,] arr2D = new int[4, 2];
+
+int[,] arr2DInView = { {1, 2}, {2, 3}, {4, 5}, {6, 7} };
+
+// Console.WriteLine(arr2DInView[1, 0]);
+
+
+int[] numeros = [5, 2, 4, 1];
+foreach (var numero in numeros)
+{
+    Console.WriteLine(numero); // Saída: 5, 2, 4, 1
+}
