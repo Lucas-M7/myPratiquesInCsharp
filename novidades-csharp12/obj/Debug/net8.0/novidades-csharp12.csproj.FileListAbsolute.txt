@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\bin\Debug\net8.0\novidades-csharp12.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\bin\Debug\net8.0\novidades-csharp12.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\bin\Debug\net8.0\novidades-csharp12.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\bin\Debug\net8.0\novidades-csharp12.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\bin\Debug\net8.0\novidades-csharp12.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\refint\novidades-csharp12.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\novidades-csharp12.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\novidades-csharp12\obj\Debug\net8.0\ref\novidades-csharp12.dll

@@ -13,3 +13,8 @@ C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\refint\logica.d
 C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.pdb
 C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.genruntimeconfig.cache
 C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\ref\logica.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\logica\bin\Debug\net8.0\ZstdSharp.dll
