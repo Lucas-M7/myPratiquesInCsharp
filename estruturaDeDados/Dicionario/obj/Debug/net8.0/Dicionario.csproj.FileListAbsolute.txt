@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\bin\Debug\net8.0\Dicionario.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\bin\Debug\net8.0\Dicionario.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\bin\Debug\net8.0\Dicionario.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\bin\Debug\net8.0\Dicionario.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\bin\Debug\net8.0\Dicionario.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\refint\Dicionario.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\Dicionario.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Dicionario\obj\Debug\net8.0\ref\Dicionario.dll

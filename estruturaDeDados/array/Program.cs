@@ -1,5 +1,44 @@
-﻿//  Declara um array unidimensional de 5 elementos
-using System.Runtime.CompilerServices;
+﻿using array.Colecoes.Helper;
+
+OperacoesArray operacao = new();
+
+int[] myArr = [6, -3, 1, 8, 13];
+
+Console.WriteLine("\nArray original");
+operacao.ImprimirArray(myArr);
+
+operacao.OrdenarBubbleSort(myArr);
+
+Console.WriteLine("\n Array ordenado");
+operacao.ImprimirArray(myArr);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  Declara um array unidimensional de 5 elementos
 
 int[] array1 = new int[5];
 
@@ -59,5 +98,5 @@ int[,] arr2DInView = { {1, 2}, {2, 3}, {4, 5}, {6, 7} };
 int[] numeros = [5, 2, 4, 1];
 foreach (var numero in numeros)
 {
-    Console.WriteLine(numero); // Saída: 5, 2, 4, 1
+    // Console.WriteLine(numero); // Saída: 5, 2, 4, 1
 }

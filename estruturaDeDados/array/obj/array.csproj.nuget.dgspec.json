@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj": {}
+    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj": {
+    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj",
+        "projectUniqueName": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj",
         "projectName": "array",
-        "projectPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj",
+        "projectPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\array.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\obj\\",
+        "outputPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

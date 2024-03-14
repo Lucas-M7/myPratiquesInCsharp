@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\bin\Debug\net8.0\Fila.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\bin\Debug\net8.0\Fila.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\bin\Debug\net8.0\Fila.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\bin\Debug\net8.0\Fila.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\bin\Debug\net8.0\Fila.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\refint\Fila.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\Fila.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\estruturaDeDados\Fila\obj\Debug\net8.0\ref\Fila.dll
