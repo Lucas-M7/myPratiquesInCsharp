@@ -3,10 +3,10 @@ using LinQ;
 
 var songs = new List<Songs>
  {
-     new Songs(id:1, name:"Enter Sandman", band:"Metallica", new DateTime(year:1991, month:8, day:7)),
-     new Songs(id:2, name:"Eyes Without a Face", band:"Billy Idol", new DateTime(year:1984, month:6, day:12)),
-     new Songs(id:3, name:"Sweet Child o' Mine", band:"Guns N' Roses", new DateTime(year:1988, month:6, day:21)),
-     new Songs(id:4, name:"Highway To Hell", band:"AC/DC", new DateTime(year:1979, month:7, day:27)),
+     new(id:1, name:"Enter Sandman", band:"Metallica", new DateTime(year:1991, month:8, day:7)),
+     new(id:2, name:"Eyes Without a Face", band:"Billy Idol", new DateTime(year:1984, month:6, day:12)),
+     new(id:3, name:"Sweet Child o' Mine", band:"Guns N' Roses", new DateTime(year:1988, month:6, day:21)),
+     new(id:4, name:"Highway To Hell", band:"AC/DC", new DateTime(year:1979, month:7, day:27)),
  };
 
 Console.WriteLine("Songs released in 1991:");

@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\bin\Debug\net8.0\Exercise01.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\bin\Debug\net8.0\Exercise01.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\bin\Debug\net8.0\Exercise01.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\bin\Debug\net8.0\Exercise01.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\bin\Debug\net8.0\Exercise01.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\refint\Exercise01.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\Exercise01.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\LinqExercises\Exercise01\obj\Debug\net8.0\ref\Exercise01.dll
