@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\bin\Debug\net8.0\numeroPrimo.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\bin\Debug\net8.0\numeroPrimo.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\bin\Debug\net8.0\numeroPrimo.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\bin\Debug\net8.0\numeroPrimo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\bin\Debug\net8.0\numeroPrimo.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\refint\numeroPrimo.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\numeroPrimo.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroPrimo\obj\Debug\net8.0\ref\numeroPrimo.dll
