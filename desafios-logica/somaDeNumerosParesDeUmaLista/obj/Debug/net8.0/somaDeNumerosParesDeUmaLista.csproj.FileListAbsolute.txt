@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\bin\Debug\net8.0\somaDeNumerosParesDeUmaLista.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\bin\Debug\net8.0\somaDeNumerosParesDeUmaLista.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\bin\Debug\net8.0\somaDeNumerosParesDeUmaLista.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\bin\Debug\net8.0\somaDeNumerosParesDeUmaLista.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\bin\Debug\net8.0\somaDeNumerosParesDeUmaLista.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\refint\somaDeNumerosParesDeUmaLista.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\somaDeNumerosParesDeUmaLista.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\somaDeNumerosParesDeUmaLista\obj\Debug\net8.0\ref\somaDeNumerosParesDeUmaLista.dll
