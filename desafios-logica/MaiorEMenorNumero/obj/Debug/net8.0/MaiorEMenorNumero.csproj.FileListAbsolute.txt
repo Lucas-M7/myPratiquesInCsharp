@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\bin\Debug\net8.0\MaiorEMenorNumero.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\bin\Debug\net8.0\MaiorEMenorNumero.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\bin\Debug\net8.0\MaiorEMenorNumero.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\bin\Debug\net8.0\MaiorEMenorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\bin\Debug\net8.0\MaiorEMenorNumero.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\refint\MaiorEMenorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\MaiorEMenorNumero.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\MaiorEMenorNumero\obj\Debug\net8.0\ref\MaiorEMenorNumero.dll
