@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\bin\Debug\net8.0\converterTemperatura.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\bin\Debug\net8.0\converterTemperatura.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\bin\Debug\net8.0\converterTemperatura.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\bin\Debug\net8.0\converterTemperatura.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\bin\Debug\net8.0\converterTemperatura.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\refint\converterTemperatura.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\converterTemperatura.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\converterTemperatura\obj\Debug\net8.0\ref\converterTemperatura.dll
