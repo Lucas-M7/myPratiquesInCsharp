@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\bin\Debug\net8.0\numeroFeliz.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\bin\Debug\net8.0\numeroFeliz.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\bin\Debug\net8.0\numeroFeliz.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\bin\Debug\net8.0\numeroFeliz.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\bin\Debug\net8.0\numeroFeliz.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\refint\numeroFeliz.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\numeroFeliz.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroFeliz\obj\Debug\net8.0\ref\numeroFeliz.dll
