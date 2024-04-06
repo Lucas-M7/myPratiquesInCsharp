@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\bin\Debug\net8.0\segundoMaiorNumero.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\bin\Debug\net8.0\segundoMaiorNumero.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\bin\Debug\net8.0\segundoMaiorNumero.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\bin\Debug\net8.0\segundoMaiorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\bin\Debug\net8.0\segundoMaiorNumero.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\refint\segundoMaiorNumero.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\segundoMaiorNumero.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\segundoMaiorNumero\obj\Debug\net8.0\ref\segundoMaiorNumero.dll
