@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\bin\Debug\net8.0\numeroUnicoArray.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\bin\Debug\net8.0\numeroUnicoArray.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\bin\Debug\net8.0\numeroUnicoArray.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\bin\Debug\net8.0\numeroUnicoArray.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\bin\Debug\net8.0\numeroUnicoArray.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\refint\numeroUnicoArray.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\numeroUnicoArray.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\numeroUnicoArray\obj\Debug\net8.0\ref\numeroUnicoArray.dll
