@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\bin\Debug\net8.0\SomaDosDigitosDoFatorial.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\bin\Debug\net8.0\SomaDosDigitosDoFatorial.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\bin\Debug\net8.0\SomaDosDigitosDoFatorial.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\bin\Debug\net8.0\SomaDosDigitosDoFatorial.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\bin\Debug\net8.0\SomaDosDigitosDoFatorial.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\refint\SomaDosDigitosDoFatorial.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\SomaDosDigitosDoFatorial.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\SomaDosDigitosDoFatorial\obj\Debug\net8.0\ref\SomaDosDigitosDoFatorial.dll
