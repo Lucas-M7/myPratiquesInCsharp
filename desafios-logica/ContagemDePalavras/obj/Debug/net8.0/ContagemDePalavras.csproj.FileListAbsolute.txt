@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\refint\ContagemDePalavras.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ContagemDePalavras\obj\Debug\net8.0\ref\ContagemDePalavras.dll
