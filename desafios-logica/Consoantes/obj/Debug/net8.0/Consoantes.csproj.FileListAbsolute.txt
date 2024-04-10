@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\bin\Debug\net8.0\Consoantes.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\bin\Debug\net8.0\Consoantes.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\bin\Debug\net8.0\Consoantes.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\bin\Debug\net8.0\Consoantes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\bin\Debug\net8.0\Consoantes.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\refint\Consoantes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\Consoantes.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\Consoantes\obj\Debug\net8.0\ref\Consoantes.dll
