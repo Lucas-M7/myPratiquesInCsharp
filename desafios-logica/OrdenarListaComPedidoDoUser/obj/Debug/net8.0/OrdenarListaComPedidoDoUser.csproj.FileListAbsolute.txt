@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\bin\Debug\net8.0\OrdenarListaComPedidoDoUser.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\bin\Debug\net8.0\OrdenarListaComPedidoDoUser.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\bin\Debug\net8.0\OrdenarListaComPedidoDoUser.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\bin\Debug\net8.0\OrdenarListaComPedidoDoUser.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\bin\Debug\net8.0\OrdenarListaComPedidoDoUser.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\refint\OrdenarListaComPedidoDoUser.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\OrdenarListaComPedidoDoUser.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\OrdenarListaComPedidoDoUser\obj\Debug\net8.0\ref\OrdenarListaComPedidoDoUser.dll
