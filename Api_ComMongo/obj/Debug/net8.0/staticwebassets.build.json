@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vWxz+3dVCYflZYmF2y1JeGOEkdfrMMOvMd7mKs3ZLec=",
+  "Source": "Api_ComMongo",
+  "BasePath": "_content/Api_ComMongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
