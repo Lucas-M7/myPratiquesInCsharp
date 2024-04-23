@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\bin\Debug\net8.0\ValidaEmail.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\bin\Debug\net8.0\ValidaEmail.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\bin\Debug\net8.0\ValidaEmail.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\bin\Debug\net8.0\ValidaEmail.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\bin\Debug\net8.0\ValidaEmail.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\refint\ValidaEmail.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ValidaEmail.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\ValidaEmail\obj\Debug\net8.0\ref\ValidaEmail.dll
