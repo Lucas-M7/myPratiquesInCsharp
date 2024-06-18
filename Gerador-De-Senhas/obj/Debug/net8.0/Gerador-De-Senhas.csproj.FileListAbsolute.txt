@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\bin\Debug\net8.0\Gerador-De-Senhas.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\bin\Debug\net8.0\Gerador-De-Senhas.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\bin\Debug\net8.0\Gerador-De-Senhas.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\bin\Debug\net8.0\Gerador-De-Senhas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\bin\Debug\net8.0\Gerador-De-Senhas.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\refint\Gerador-De-Senhas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\Gerador-De-Senhas.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Gerador-De-Senhas\obj\Debug\net8.0\ref\Gerador-De-Senhas.dll
