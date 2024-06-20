@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\bin\Debug\net8.0\ManipulandoScancodes.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\bin\Debug\net8.0\ManipulandoScancodes.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\bin\Debug\net8.0\ManipulandoScancodes.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\bin\Debug\net8.0\ManipulandoScancodes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\bin\Debug\net8.0\ManipulandoScancodes.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\refint\ManipulandoScancodes.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ManipulandoScancodes.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\ManipulandoScancodes\obj\Debug\net8.0\ref\ManipulandoScancodes.dll
