@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5+kgcb5uL0nhJczYycEIbfFPYvHOgRTKGn3nItGeYAhpyfSQUWrZ+MfcD7+leyT+6R/9Er8EqggmklKqgh70Q==",
+  "dgSpecHash": "xA8wMr9W4ZnmXnO2/kB/x/5+2actS0IfGKRgms2fhUw58k1aVi0iSl27xg86vLxY0CRDC835kIOSWgC5bvTl/w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

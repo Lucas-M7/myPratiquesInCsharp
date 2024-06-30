@@ -4,6 +4,8 @@ usuarios.Add(74, "Lucas");
 usuarios.Add(63, "Fábio");
 usuarios.Add(84, "Kauã");
 
+usuarios.Remove(84);
+
 // Console.WriteLine($"Quantidade de Usuários: {usuarios.Count}\n");
 
 // foreach (var item in usuarios)

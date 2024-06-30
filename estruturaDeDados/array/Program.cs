@@ -7,7 +7,8 @@ int[] myArr = [6, -3, 1, 8, 13];
 Console.WriteLine("\nArray original");
 operacao.ImprimirArray(myArr);
 
-operacao.OrdenarBubbleSort(myArr);
+// operacao.OrdenarBubbleSort(myArr);
+Array.Sort(myArr);
 
 Console.WriteLine("\n Array ordenado");
 operacao.ImprimirArray(myArr);

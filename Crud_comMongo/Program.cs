@@ -8,5 +8,3 @@ var colecao = bancoDeDados.GetCollection<BsonDocument>("Usuarios");
 
 
 CrudMongo documento = new();
-
-await documento.DeletarDocumento(colecao);

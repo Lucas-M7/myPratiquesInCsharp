@@ -11,11 +11,6 @@ Console.WriteLine($"\nPessoas na fila: {linha}");
 
 while (filaDoCaixa.Count > 0)
 {
-    Console.Write($"\nVez de: {filaDoCaixa.Peek()} - ");
+        Console.Write($"\nVez de: {filaDoCaixa.Peek()} - ");
     Console.WriteLine($"{filaDoCaixa.Dequeue()} atendido.");
-
-    if (!filaDoCaixa.Contains("Kauã"))
-    {
-        Console.WriteLine("atendida. Na vdd");
-    }
 }

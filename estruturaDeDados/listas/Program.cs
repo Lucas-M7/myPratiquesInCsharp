@@ -1,15 +1,12 @@
 ﻿List<int> myList = new List<int>();
 List<int> myNewList = new List<int> { 20, 30, 40, 50, 60, 70 };
 
-// myList.AddRange(myNewList);
-// foreach (var itens in myList)
-// {
-//     Console.WriteLine(itens);
-// }
+myList.AddRange(myNewList);
 
-// myList.Insert(0, 10);
+int sum = 0;
+for (int i = 0; i < myList.Count; i++)
+{
+    sum += myList[i];
+}
 
-//  foreach (var itens in myList)
-//  {
-//      Console.WriteLine(itens);
-//  }
+Console.WriteLine(sum);

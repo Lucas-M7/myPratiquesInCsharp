@@ -8,3 +8,13 @@ names.Add("Lucas"); // This element is ignored, because it already exists in ens
 
 string namesInLine = string.Join(", ", names);
 Console.WriteLine(namesInLine);
+
+HashSet<int> numbers = [];
+
+numbers.Add(30);
+numbers.Add(84);
+
+foreach (var item in numbers)
+{
+    Console.WriteLine($"{item} * {item} = {item * item}");
+}

@@ -10,9 +10,9 @@ public class CrudMongo
     {
         var documento = new BsonDocument
         {
-            {"nome", "Ana Maria"},
-            {"idade", 21},
-            {"email", "Maria@email.com"}
+            {"nome", "Anderson Silva"},
+            {"idade", 47},
+            {"email", "Silva@email.com"}
         };
 
         await collection.InsertOneAsync(documento);

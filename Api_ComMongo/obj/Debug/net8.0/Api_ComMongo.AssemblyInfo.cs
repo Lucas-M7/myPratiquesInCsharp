@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_ComMongo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d56518a6801dbc80a7c3cc6cb0a308253fa1d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e931be72f7eedfa3ee4003852aedd0eeb35fc505")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_ComMongo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_ComMongo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

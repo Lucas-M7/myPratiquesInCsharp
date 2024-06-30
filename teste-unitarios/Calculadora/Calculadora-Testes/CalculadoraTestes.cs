@@ -1,3 +1,5 @@
+using Calc;
+
 namespace Calculadora_Testes
 {
     public class CalculadoraTestes
@@ -5,25 +7,38 @@ namespace Calculadora_Testes
         [Fact]
         public void Somar()
         {
-            Assert.Equal(20, Calculadora.Calculadora.Somar(10, 10));
+            // Arrange
+            var calculator = new Calculadora();
+
+            // Act
+            var result = calculator.Somar(5, 6);
+
+            // Assert
+            Assert.Equal(11, result);
         }
 
         [Fact]
         public void Subtrair()
         {
-            Assert.Equal(0, Calculadora.Calculadora.Subtrair(10, 10));
+            var calculator = new Calculadora();
+            var result = calculator.Subtrair(5, 5);
+            Assert.Equal(0, result);
         }
 
         [Fact]
         public void Multiplicar()
         {
-            Assert.Equal(20, Calculadora.Calculadora.Multiplicar(10, 2));
+            var calculator = new Calculadora();
+            var result = calculator.Multiplicar(5, 4);
+            Assert.Equal(20, result);
         }
 
         [Fact]
         public void Dividir()
         {
-            Assert.Equal(1, Calculadora.Calculadora.Dividir(10, 10));
+            var calculator = new Calculadora();
+            var result = calculator.Dividir(4, 2);
+            Assert.Equal(2, result);
         }
     }
 }

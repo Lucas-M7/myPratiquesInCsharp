@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj": {}
+    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj": {
+    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
         "projectName": "Fila",
-        "projectPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\Fila.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\estruturaDeDados\\Fila\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

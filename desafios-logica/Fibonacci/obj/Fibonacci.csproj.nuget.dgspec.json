@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj": {}
+    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj": {
+    "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj",
+        "projectPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\obj\\",
+        "outputPath": "c:\\Users\\Lucas\\Downloads\\praticas_Csharp\\desafios-logica\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

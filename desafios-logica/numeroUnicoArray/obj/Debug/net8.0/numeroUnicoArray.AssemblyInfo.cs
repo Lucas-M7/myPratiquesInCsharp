@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numeroUnicoArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e61c38edee0185256323cc43ccd392ed4ce657f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d56518a6801dbc80a7c3cc6cb0a308253fa1d94")]
 [assembly: System.Reflection.AssemblyProductAttribute("numeroUnicoArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numeroUnicoArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

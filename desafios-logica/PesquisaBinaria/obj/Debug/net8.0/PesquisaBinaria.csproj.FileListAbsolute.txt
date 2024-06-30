@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\refint\PesquisaBinaria.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\desafios-logica\PesquisaBinaria\obj\Debug\net8.0\ref\PesquisaBinaria.dll

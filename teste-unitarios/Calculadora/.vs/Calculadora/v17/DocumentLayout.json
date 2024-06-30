@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\teste-unitarios\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B2B57AF-3135-42AA-9179-96F425B993C6}|Calculadora-Testes\\Calculadora-Testes.csproj|c:\\users\\lucas\\downloads\\praticas_csharp\\teste-unitarios\\calculadora\\calculadora-testes\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2B57AF-3135-42AA-9179-96F425B993C6}|Calculadora-Testes\\Calculadora-Testes.csproj|solutionrelative:calculadora-testes\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B1B382C-3244-4028-BF9E-5D49A27BCF08}|Calculadora\\Calculadora.csproj|c:\\users\\lucas\\downloads\\praticas_csharp\\teste-unitarios\\calculadora\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B1B382C-3244-4028-BF9E-5D49A27BCF08}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculadoraTestes.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\teste-unitarios\\Calculadora\\Calculadora-Testes\\CalculadoraTestes.cs",
-              "RelativeDocumentMoniker": "Calculadora-Testes\\CalculadoraTestes.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\teste-unitarios\\Calculadora\\Calculadora-Testes\\CalculadoraTestes.cs",
-              "RelativeToolTip": "Calculadora-Testes\\CalculadoraTestes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T15:21:48.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\praticas_Csharp\\teste-unitarios\\Calculadora\\Calculadora\\Calculadora.cs",
               "RelativeDocumentMoniker": "Calculadora\\Calculadora.cs",
@@ -47,7 +30,8 @@
               "RelativeToolTip": "Calculadora\\Calculadora.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T15:16:46.292Z"
+              "WhenOpened": "2024-03-02T15:16:46.292Z",
+              "EditorCaption": ""
             }
           ]
         }

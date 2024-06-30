@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d56518a6801dbc80a7c3cc6cb0a308253fa1d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3363333ad96a69c60e09378edbc22b7c40edb883")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

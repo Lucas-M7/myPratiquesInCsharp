@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somaDeNumerosParesDeUmaLista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f761f10690d440483d10748bb3efa50a3f7e074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3363333ad96a69c60e09378edbc22b7c40edb883")]
 [assembly: System.Reflection.AssemblyProductAttribute("somaDeNumerosParesDeUmaLista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somaDeNumerosParesDeUmaLista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
