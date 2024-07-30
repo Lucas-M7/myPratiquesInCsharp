@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\bin\Debug\net8.0\Tuplas.exe
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\bin\Debug\net8.0\Tuplas.deps.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\bin\Debug\net8.0\Tuplas.runtimeconfig.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\bin\Debug\net8.0\Tuplas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\bin\Debug\net8.0\Tuplas.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.sourcelink.json
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\refint\Tuplas.dll
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.pdb
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\Tuplas.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\praticas_Csharp\Tuplas\obj\Debug\net8.0\ref\Tuplas.dll
